@@ -13,7 +13,7 @@ nF.configure(bg='#fff')
 dogphoto = PhotoImage(file="dog.png")
 label0 = tk.Label(nF, image=dogphoto, borderwidth=0)
 Label1 = Label(nF,text="Pochacco!", bg="#fff")
-Label2 = Label(window,text="A cuddly little puppy! This is from the same\ncreators who brought you Keropi and Kero Kero", bg="#54E0DA", width=45)
+Label2 = Label(window,text="A cuddly little puppy! This is from the same\ncreators who brought you Keropi and Kero Kero", bg="#BAD3E3", width=45)
 
 
 
