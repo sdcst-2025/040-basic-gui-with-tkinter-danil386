@@ -8,6 +8,7 @@ window.title("Example")
 window.resizable(False,False)
 window.configure(bg="#fff")
 nF= Frame()
+nF.configure(bg='#fff')
 
 dogphoto = PhotoImage(file="dog.png")
 label0 = tk.Label(nF, image=dogphoto, borderwidth=0)
